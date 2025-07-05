@@ -1,6 +1,5 @@
 # 📅 July 2 - 3, 2025 – Python Refresher
-_Note: Took an extra day to deepen understanding and revisit key Python fundamentals before continuing the course._
-
+_Note: This learning path continues in /python-for-data-science-by-IBM/logs
 ## 🎯 Objective
 To refresh core Python skills that will support my AI/ML journey, especially before diving deeper into Andrew Ng’s Machine Learning course.
 
