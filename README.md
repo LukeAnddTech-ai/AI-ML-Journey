@@ -24,9 +24,7 @@ I'm currently a second-year university student majoring in **Data Science**, wor
 
 📝 **July 12, 2025** – ⏸ Paused the IBM Python for Data Science, AI & Development course (7-day trial ended). Until I regain access, I’ll resume progress in the Andrew Ng Machine Learning Specialization.
 
-📝 **July 18, 2025** 
-Andrew Ng’s Machine Learning Specialization  
-  ⏸ Paused Andrew Ng’s Machine Learning Specialization due to upcoming university semester. Planning to resume after the term.
+📝 **July 18, 2025** - ⏸ Paused Andrew Ng’s Machine Learning Specialization due to upcoming university semester. Planning to resume after the term.
 
 > 📓 Logs and progress updates are tracked in the `logs/` folder. 
 
