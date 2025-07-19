@@ -17,7 +17,7 @@ I'm currently a second-year university student majoring in **Data Science**, wor
 
 | Course | Status | Start Date | Paused | Resumed | Completed |
 |--------|--------|------------|--------|---------|-----------|
-| [Machine Learning Specialization – Andrew Ng](https://www.coursera.org/specializations/machine-learning-introduction) | 🟢 Active | June 28, 2025 | July 1, 2025 | - | — |
+| [Machine Learning Specialization – Andrew Ng](https://www.coursera.org/specializations/machine-learning-introduction) | 🟢 Active | June 28, 2025 | July 1, 2025 | — | — |
 | [Python for Data Science, AI & Development – IBM](https://www.coursera.org/learn/python-for-applied-data-science-ai) | ⏸️ Paused | July 2, 2025 | July 18, 2025 | — | — |
 
 📝 **July 1, 2025** – I decided to temporarily pause the Andrew Ng Machine Learning course to sharpen my Python skills by starting the IBM Python for Data Science, AI & Development course. I believe this will give me a stronger coding foundation before returning to ML.
